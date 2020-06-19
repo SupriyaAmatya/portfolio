@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0004dd22.chunk.css",
+    "main.js": "/portfolio/static/js/main.96c920cc.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.96c920cc.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.fb1b3dac.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.fb1b3dac.js.map",
+    "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
+    "static/js/2.3ce81af0.chunk.js": "/portfolio/static/js/2.3ce81af0.chunk.js",
+    "static/js/2.3ce81af0.chunk.js.map": "/portfolio/static/js/2.3ce81af0.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.d9598c222f8382d575bda2f9c7048859.js": "/portfolio/precache-manifest.d9598c222f8382d575bda2f9c7048859.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.0004dd22.chunk.css.map": "/portfolio/static/css/main.0004dd22.chunk.css.map",
+    "static/js/2.3ce81af0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3ce81af0.chunk.js.LICENSE.txt",
+    "static/media/girl.png": "/portfolio/static/media/girl.21335389.png",
+    "static/media/styles.css": "/portfolio/static/media/hand-wave-icon.5386ebcf.png",
+    "static/media/imagestego.png": "/portfolio/static/media/imagestego.504d9ecf.png",
+    "static/media/java-icon.png": "/portfolio/static/media/java-icon.7a3c0753.png",
+    "static/media/leapfrog.png": "/portfolio/static/media/leapfrog.1118d2ba.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.3beac6b1.png",
+    "static/media/nezuko.png": "/portfolio/static/media/nezuko.ce7841f8.png",
+    "static/media/oreo.png": "/portfolio/static/media/oreo.84015bdc.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.3424b4c0.jpg",
+    "static/media/react-icon.png": "/portfolio/static/media/react-icon.fbf20f51.png",
+    "static/media/slay-queen.png": "/portfolio/static/media/slay-queen.bb178915.png",
+    "static/media/todo-icon.png": "/portfolio/static/media/todo-icon.ee67ffc9.png",
+    "static/media/todo.png": "/portfolio/static/media/todo.5c00f5ed.png",
+    "static/media/yts.png": "/portfolio/static/media/yts.5283a091.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1b3dac.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.3ce81af0.chunk.js",
+    "static/css/main.0004dd22.chunk.css",
+    "static/js/main.96c920cc.chunk.js"
+  ]
+}
