@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import profile from '../assets/images/profile.jpg'
+import resume from '../assets/resume.pdf'
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -31,7 +32,7 @@ const About = () => {
               <p className="t-body1">I love learning new and better ways to create seamless user experiences with clean, efficient, and scalable code.</p>
             </div>
             <div className="btn view-btn">
-              <a className="" href="/resume.pdf" rel="noopener noreferrer" target="_blank" aria-label="resume">View Resume</a>
+              <a className="" href={resume} rel="noopener noreferrer" target="_blank" aria-label="resume">View Resume</a>
             </div>
           </div>
           <div className="col4-2 about_image">

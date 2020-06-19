@@ -1,6 +1,7 @@
 import React from 'react'
 import logo from '../../assets/logo.png'
 import { Link } from 'react-scroll'
+import resume from '../../assets/resume.pdf'
 
 const Navbar = () => {
   return (
@@ -29,7 +30,7 @@ const Navbar = () => {
             </div>
           </div>
           <div className="resume-btn">
-            <a href="/resume.pdf" className="resume" rel="noopener noreferrer" target="_blank" aria-label="resume">resume</a>
+            <a href={resume} className="resume" rel="noopener noreferrer" target="_blank" aria-label="resume">resume</a>
           </div>
         </div>
       </div>
