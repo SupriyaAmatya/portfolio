@@ -39,7 +39,7 @@ const initState = {
       id: 3,
       title: "Yify Movies",
       imgSrc: yts,
-      body: "This project is a self learing project build using ReactJS. This torrent movies website like YTS.mx where users can download free yify movies torrents.This project uses ",
+      body: "This project is a self learing project build using ReactJS and Rest API. This torrent movies website like YTS.mx where users can download free yify movies torrents.",
       language: [
         'ReactJS','Reacter Router', 'YTS Web API'
       ],
