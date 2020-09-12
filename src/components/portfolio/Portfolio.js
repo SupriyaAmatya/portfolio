@@ -23,7 +23,7 @@ export class Portfolio extends Component {
             <div className="divider" />
             <ArtList illustrator={projects.illustrator} />
             <h4 className="t-h4 see-more">
-              See more in<a href="https://dribbble.com/supriyaamatya" target="_blank" rel="noopener noreferrer"> Dribble</a>
+              See more in<a href="https://dribbble.com/supriyaamatya" target="_blank" rel="noopener noreferrer"> Dribbble</a>
               <span>
                 <svg className="dribble-icon" width="20" height="20" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
                   <path d="M128 8.5c66 0 119.4 53.4 119.4 119.3S194 247.2 128 247.2 8.6 193.8 8.6 127.9 62 8.5 128 8.5z" fill="#E74D89" />
