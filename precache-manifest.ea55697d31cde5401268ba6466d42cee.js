@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52089ac7822f3a11223bb13d781ecdd6",
+    "revision": "22001ba6c000b10ee642593bc345118d",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "903e50d173ac005819b4",
+    "revision": "839361739b817a827571",
     "url": "/portfolio/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "70f7f64d1fe944fdbd01",
-    "url": "/portfolio/static/css/main.0004dd22.chunk.css"
+    "revision": "5f325f7ed5026e2904b8",
+    "url": "/portfolio/static/css/main.75048724.chunk.css"
   },
   {
-    "revision": "903e50d173ac005819b4",
-    "url": "/portfolio/static/js/2.ce3c21db.chunk.js"
+    "revision": "839361739b817a827571",
+    "url": "/portfolio/static/js/2.df8032c6.chunk.js"
   },
   {
     "revision": "4ba1a1c11c57ed15aa68008707a3d6b4",
-    "url": "/portfolio/static/js/2.ce3c21db.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.df8032c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "70f7f64d1fe944fdbd01",
-    "url": "/portfolio/static/js/main.d1b68c7a.chunk.js"
+    "revision": "5f325f7ed5026e2904b8",
+    "url": "/portfolio/static/js/main.20400f66.chunk.js"
   },
   {
     "revision": "88fbd3d397ae3690d5f2",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/nezuko.ce7841f8.png"
   },
   {
-    "revision": "84015bdce79a7d230cf96c371f42afb9",
-    "url": "/portfolio/static/media/oreo.84015bdc.png"
+    "revision": "050c8c58902d17db16c710e8d28e0c4c",
+    "url": "/portfolio/static/media/oreo.050c8c58.png"
   },
   {
     "revision": "3424b4c0f59301b406aa8688cc5cda80",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/resume.58043357.pdf"
   },
   {
-    "revision": "bb17891573dd652828b0086984cb7eaf",
-    "url": "/portfolio/static/media/slay-queen.bb178915.png"
+    "revision": "3f84aae84ae636c2a8d537e09bb98fb3",
+    "url": "/portfolio/static/media/slay-queen.3f84aae8.png"
   },
   {
     "revision": "ee67ffc908e27d263fc77c7a6b0f6c42",
