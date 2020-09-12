@@ -41,7 +41,7 @@ const initState = {
       imgSrc: yts,
       body: "This project is a self learing project build using ReactJS and Rest API. This torrent movies website like YTS.mx where users can download free yify movies torrents.",
       language: [
-        'ReactJS','Reacter Router', 'YTS Web API'
+        'ReactJS','React Router', 'YTS Web API'
       ],
       demo:'https://supriyaamatya.github.io/yts-movie-app/',
       code:'https://github.com/SupriyaAmatya/yts-movie-app'
